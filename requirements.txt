@@ -1,0 +1,6 @@
+Django==3.1.2
+reportlab==3.5.57
+xhtml2pdf==0.2.5
+tqdm==4.64.0
+pillow==11.1.0
+

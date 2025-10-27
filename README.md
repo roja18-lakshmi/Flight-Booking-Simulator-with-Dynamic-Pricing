@@ -178,7 +178,7 @@ This project is licensed under the **MIT License**.
 
 ## 👩‍💻 Author
 
-**Roja Lakshmi Madduri**
+**Madduri Roja Lakshmi**
 Internship Project — *Flight Booking Simulator with Dynamic Pricing*
 Developed using Django, PostgreSQL, and dynamic pricing logic.
 
